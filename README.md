@@ -1,15 +1,6 @@
 <p align="center"> <img src="./banner-git.png" alt="Tapas Mahanta - Banner" width="100%" /> </p>
 
-<p align="center"> <img src="./assets/banner-tech.png" alt="Tapas Mahanta - Banner" width="100%" /> </p>
-
 # 👋 Hi, I'm Tapas Mahanta
-
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/tapas100?label=Follow&style=for-the-badge" />
-  <img alt="Repos" src="https://img.shields.io/github/repo-size/tapas100/tapas100?style=for-the-badge" />
-  <img alt="Top Langs" src="https://img.shields.io/github/languages/top/tapas100?style=for-the-badge" />
-  <img alt="MAANG Ready" src="https://img.shields.io/badge/MAANG-ready-brightgreen?style=for-the-badge" />
-</p>
 
 **Full-stack engineer specializing in React Native, Node.js and TypeScript. Building scalable cross-platform apps and preparing for MAANG.**
 
