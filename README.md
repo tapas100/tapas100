@@ -1,6 +1,15 @@
 <p align="center"> <img src="./banner-git.png" alt="Tapas Mahanta - Banner" width="100%" /> </p>
 
+<p align="center"> <img src="./assets/banner-tech.png" alt="Tapas Mahanta - Banner" width="100%" /> </p>
+
 # 👋 Hi, I'm Tapas Mahanta
+
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/tapas100?label=Follow&style=for-the-badge" />
+  <img alt="Repos" src="https://img.shields.io/github/repo-size/tapas100/tapas100?style=for-the-badge" />
+  <img alt="Top Langs" src="https://img.shields.io/github/languages/top/tapas100?style=for-the-badge" />
+  <img alt="MAANG Ready" src="https://img.shields.io/badge/MAANG-ready-brightgreen?style=for-the-badge" />
+</p>
 
 **Full-stack engineer specializing in React Native, Node.js and TypeScript. Building scalable cross-platform apps and preparing for MAANG.**
 
@@ -12,8 +21,10 @@
 
 ## 🚀 About Me
 
-* Full‑stack engineer with strong experience in **JavaScript, TypeScript, Node.js, MongoDB, React Native, Electron.js**
+* Full‑stack engineer with strong experience in **JavaScript, TypeScript, Node.js, MongoDB, React Native, Electron.js, Ionic, Python, FastAPI**
 * Passionate about **high‑performance apps**, clean architecture, testing, and modern tooling
+* Experienced with **Cypress** for E2E testing and **AWS** for cloud deployments
+* Working with **microfrontend** architectures and exploring **Generative AI** integrations
 * Currently preparing for **MAANG interviews**
 * Interested in **systems design**, **state machines (XState)**, **cross‑platform development**, and **AI‑powered workflows**
 * Building a personal portfolio of real‑world, production‑ready apps
@@ -64,12 +75,15 @@ Topics planned:
 
 ## 🧠 Skills
 
-* **Languages:** JavaScript, TypeScript, HTML, CSS
-* **Frontend:** React, React Native, Next.js
-* **Backend:** Node.js, Express, MongoDB, REST APIs
+* **Languages:** JavaScript, TypeScript, Python, HTML, CSS
+* **Frontend:** React, React Native, Next.js, Ionic
+* **Backend:** Node.js, Express, FastAPI, MongoDB, REST APIs
 * **Desktop:** Electron.js
-* **Dev Tools:** GitHub Actions, Docker, ESLint, Prettier
-* **Testing:** XState tests, Jest, React Testing Library
+* **Cloud / Infra:** AWS (EC2, S3, Lambda), Docker, GitHub Actions
+* **Architectures:** Microfrontends, Modular Monorepos
+* **Testing:** Cypress (E2E), Jest, React Testing Library
+* **State & Tools:** XState, Redux, ESLint, Prettier
+* **AI / Data:** Generative AI integrations, development and testing using GenAI, learning LLM model
 
 ---
 
