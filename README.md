@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tapas Mahanta
 
-**Full-stack engineer specializing in React Native, Node.js and TypeScript. Building scalable cross-platform apps and preparing for MAANG.**
+**Full-stack engineer specializing in React Native, Node.js and TypeScript. Building scalable cross-platform apps.**
 
 ### Full‑Stack Developer | React Native • Node.js • TypeScript • Electron
 
