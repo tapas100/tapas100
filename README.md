@@ -89,7 +89,7 @@ Topics planned:
 
 ## 📬 Connect
 
-* Personal Website: **tapasm.com**
+* Personal Website: **tapasm.space**
 * GitHub: **github.com/tapas100**
 * LinkedIn: *Add link here*
 
