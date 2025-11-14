@@ -1,12 +1,23 @@
 <p align="center"> <img src="./banner-git.png" alt="Tapas Mahanta - Banner" width="100%" /> </p>
 
+<div align="center">
+
+![Founder](https://img.shields.io/badge/Founder-SwiftReply--AI-blue)
+![AI Builder](https://img.shields.io/badge/AI-Builder-purple)
+![Micro SaaS](https://img.shields.io/badge/Building-MicroSaaS-orange)
+![Open to Collaboration](https://img.shields.io/badge/Open%20To-Collaboration-brightgreen)
+
+![SwiftReply-AI Founder](https://img.shields.io/badge/Founder%20of-SwiftReply--AI-blueviolet)
+
+</div>
+
 # 👋 Hi, I'm Tapas Mahanta
 
 **Full-stack engineer specializing in React Native, Node.js and TypeScript. Building scalable cross-platform apps.**
 
 ### Full‑Stack Developer | React Native • Node.js • TypeScript • Electron
 
-### 8+ Years Experience | Preparing for MAANG | Building Scalable Cross‑Platform Apps
+### 8+ Years Experience | Building Scalable Cross‑Platform Apps
 
 ---
 
