@@ -21,6 +21,19 @@
 
 ---
 
+## 🛍️ My Products
+
+### 🚀 SwiftReply-AI — AI WhatsApp Automation Micro-SaaS
+*AI-powered WhatsApp auto-responder built with FastAPI, LLMs, Next.js, and AWS.*
+- Automated replies with LLM-generated responses
+- WhatsApp Cloud API integration
+- Lead capture & analytics
+- Business catalog automation
+- Serverless deployment (AWS Lambda)
+
+👉 GitHub: https://github.com/swiftreply-ai/swiftreply-ai
+
+
 ## 🔥 Featured Projects
 
 ### 📱 React Native Mobile App – *Project 1 Placeholder*
