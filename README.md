@@ -19,7 +19,6 @@
 * Interested in **systems design**, **state machines (XState)**, **cross‑platform development**, and **AI‑powered workflows**
 * Building a personal portfolio of real‑world, production‑ready apps
 
----
 
 ## 🛍️ My Products
 
