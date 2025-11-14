@@ -16,7 +16,6 @@
 * Passionate about **high‑performance apps**, clean architecture, testing, and modern tooling
 * Experienced with **Cypress** for E2E testing and **AWS** for cloud deployments
 * Working with **microfrontend** architectures and exploring **Generative AI** integrations
-* Currently preparing for **MAANG interviews**
 * Interested in **systems design**, **state machines (XState)**, **cross‑platform development**, and **AI‑powered workflows**
 * Building a personal portfolio of real‑world, production‑ready apps
 
